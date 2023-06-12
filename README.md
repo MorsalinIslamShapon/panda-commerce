@@ -1,2 +1,5 @@
 # panda-commerce
-This is panda commerce webiste using html, css , javascript &amp; bootsrap
+Responsive panda commerce webiste using html, css , javascript &amp; bootsrap
+
+Live preview
+https://morsalinislamshapon.github.io/panda-commerce/
